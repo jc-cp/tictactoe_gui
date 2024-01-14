@@ -1,2 +1,2 @@
-# tictactoe_gui
-Python implementation of this popular an easy game.
+# Tic Tac Toe
+Python implementation of this popular an easy game with a GUI.
