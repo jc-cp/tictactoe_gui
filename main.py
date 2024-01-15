@@ -6,7 +6,7 @@ from gui import Tic_Tac_Toe
 
 
 # Defining vairables
-size_of_board = 1200
+size_of_board = 600
 symbol_size = (size_of_board / 3) *0.6 / 2
 symbol_thickness =25
 symbol_x_color = '#EE4035'
